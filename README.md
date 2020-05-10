@@ -22,10 +22,9 @@ Top Servers Online is a Not For Profit project, it is also not open source but a
 
 ## Websites included under Top Servers Online
 
-
-* -[Top Servers Online](https://topservers.online)<br>
-* -[Play Eco Online](https://playeco.online)<br>
-* -[Play Factorio Online](https://playfactorio.online)
+* [Top Servers Online](https://topservers.online)<br>
+* [Play Eco Online](https://playeco.online)<br>
+* [Play Factorio Online](https://playfactorio.online)
 
 ## Issue Posting Format will be:
 
