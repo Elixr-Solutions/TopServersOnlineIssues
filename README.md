@@ -9,15 +9,15 @@ https://playfactorio.online
 
 Welcome to the TSO Issue Tracker.
 
-Here you will be able to see all the issues known with the website, possible workarounds and fixes
+Here you will be able to see all the issues known with the website, possible workarounds and fixes.<br>
 This will include issues for the Tracker as well.
 
 Posting Format will be:
 
-Title: Issue
-Description:
-Issue:
-How to replicate:
-Time Issue was found (Please include time code EG. CET, EST etc):
+Title: Issue<br>
+Description:<br>
+Issue:<br>
+How to replicate:<br>
+Time Issue was found (Please include time code EG. CET, EST etc):<br>
 Images if Able:
 
