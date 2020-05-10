@@ -3,9 +3,9 @@ Top Servers Online Website Issue tracking and posting
 
 Websites included under Top Servers Online
 
-https://topservers.online <br>
-https://playeco.online <br>
-https://playfactorio.online 
+-[Top Servers Online](https://topservers.online)<br>
+-[Play Eco Online](https://playeco.online)<br>
+-[Play Factorio Online](https://playfactorio.online)
 
 Welcome to the TSO Issue Tracker.
 
@@ -14,10 +14,10 @@ This will include issues for the Tracker as well.
 
 Posting Format will be:
 
-Title: Issue<br>
-Description:<br>
-Issue:<br>
-How to replicate:<br>
-Time Issue was found (Please include time code EG. CET, EST etc):<br>
-Images if Able:
+-Title: Issue<br>
+-Description:<br>
+-Issue:<br>
+-How to replicate:<br>
+-Time Issue was found (Please include time code EG. CET, EST etc):<br>
+-Images if Able:
 
