@@ -22,15 +22,15 @@ Top Servers Online is a Not For Profit project, it is also not open source but a
 
 ## Websites included under Top Servers Online
 
-* [Top Servers Online](https://topservers.online)<br>
-* [Play Eco Online](https://playeco.online)<br>
+* [Top Servers Online](https://topservers.online)
+* [Play Eco Online](https://playeco.online)
 * [Play Factorio Online](https://playfactorio.online)
 
 ## Issue Posting Format will be:
 
-* Title: Issue<br>
-* Description:<br>
-* Issue:<br>
-* How to replicate:<br>
-* Time Issue was found (Please include time code EG. CET, EST etc):<br>
+* Title: Issue
+* Description:
+* Issue:
+* How to replicate:
+* Time Issue was found (eg. 15 minutes ago, just now etc):
 * Images if Able:
